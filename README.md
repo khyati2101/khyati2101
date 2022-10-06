@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @khyati2101
-- 👀 I’m interested in ...UI/UX
-- 🌱 I’m currently learning ...Java + dsa
+- 📖 Second year Student at Kalindi College, Delhi University.
+- 👀 I’m interested in ...designing & developing
+- 🌱 I’m currently learning ...Web Dev
 - 📫 How to reach me ...khyatimehra21@gmail.com
 
 <!---
