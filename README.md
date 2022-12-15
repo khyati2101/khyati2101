@@ -11,4 +11,3 @@
 khyati2101/khyati2101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/99011698/195168569-830b0a0d-d78b-4875-9773-0deb331ffb0e.png
