@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @khyati2101
-- 📖 Second year Student at Kalindi College, Delhi University.
+- 👋 Hi, I’m @khyati2108
+- 📖 third year Student at Kalindi College, Delhi University.
 - 👀 I’m interested in ...designing & developing
-- 🌱 I’m currently learning ...Web Dev
+- 🌱 I’m currently learning ...Web Dev & figma
 - 📫 How to reach me ...khyatimehra21@gmail.com
 
 
