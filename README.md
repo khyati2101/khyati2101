@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @khyati2108
-- 📖 third year Student at Kalindi College, Delhi University.
+- 👋 Hi, I’m @khyati2101
+- 📖 I am a working professional at EPYC.in.
 - 👀 I’m interested in ...designing & developing
-- 🌱 I’m currently learning ...Web Dev & figma
+- 🌱 I’m currently learning ...Building AI agents & figma
 - 📫 How to reach me ...khyatimehra21@gmail.com
 
 
